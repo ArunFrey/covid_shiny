@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604444619004.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D348EBB9",
+    "lastKnownWriteTime" : 140484234276576,
+    "last_content_update" : 1604444619004,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3BFBDD15",
+        "caption" : "age_grp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=age_grp&cache_key=3BFBDD15",
+        "displayedObservations" : "13385",
+        "environment" : "",
+        "expression" : "age_grp",
+        "object" : "age_grp",
+        "preview" : "0",
+        "totalObservations" : "13385",
+        "variables" : "20"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

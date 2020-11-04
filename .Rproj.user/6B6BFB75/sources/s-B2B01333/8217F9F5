@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604442933645.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8217F9F5",
+    "lastKnownWriteTime" : 1604466894,
+    "last_content_update" : 1604466894875,
+    "path" : "~/Dropbox/2.University/DPhil_Oxford/3.Research/1.Data/R_PROJECTS/Shiny/COVID/wrange.R",
+    "project_path" : "wrange.R",
+    "properties" : {
+        "cursorPosition" : "49,26",
+        "scrollLine" : "37",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

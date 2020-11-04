@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604446033260.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49C6CD01",
+    "lastKnownWriteTime" : 5764616303153508420,
+    "last_content_update" : 1604446033260,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "46255FE6",
+        "caption" : "gemeinde_fortified",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=gemeinde_fortified&cache_key=46255FE6",
+        "displayedObservations" : 1877726,
+        "environment" : "",
+        "expression" : "gemeinde_fortified",
+        "object" : "gemeinde_fortified",
+        "preview" : 0,
+        "totalObservations" : 1877726,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
